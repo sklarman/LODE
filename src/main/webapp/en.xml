@@ -5,7 +5,7 @@
     <visualisation>Other visualisation</visualisation>
     <visualiseitwith>visualise it with</visualiseitwith>
     <date>Date</date>
-    <currentversion>Current version</currentversion>
+    <currentversion>Version info</currentversion>
     <previousversion>Previous version</previousversion>
     <backwardcompatiblewith>Backward compatible with</backwardcompatiblewith>
     <incompatibleWith>Incompatible with</incompatibleWith>
@@ -24,6 +24,9 @@
     <asymmetric>asymmetric</asymmetric>
     <transitive>transitive</transitive>
     <isdefinedby>is defined by</isdefinedby>
+    <closematch>close match</closematch>
+    <dataentry>data entry</dataentry>
+    <seealso>see also</seealso>
     <belongsto>belongs to</belongsto>
     <issameas>is same as</issameas>
     <isalsodefinedas>is also defined as</isalsodefinedas>
